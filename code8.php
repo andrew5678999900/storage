@@ -10,16 +10,3 @@
        var_dump($_GET); //Use this to see what info we got!
     }
  ?>
- <!DOCTYPE html>
- <html lang="en">
-   <head>
-     <meta char-set="utf-8">
-     <title>Page title</title>
-   </head>
-   <body>
-     <form action="" method="POST">
-       <input type="text" value="default value, you can edit it" name="myfield">
-       <input type="submit" value = "post">
-     </form>
-   </body>
- </html>
